@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FedericoTardivo
 - 👀 I’m interested in Computer Science, Music and Climbing
 - 📫 tardivo99@gmail.com 
-- 🌐 tardivo.dev
+- 🌐 https://tardivo.dev
 
 <!---
 FedericoTardivo/FedericoTardivo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
