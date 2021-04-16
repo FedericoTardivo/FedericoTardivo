@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FedericoTardivo
-- 👀 I’m interested in Computer Science, Music and Climbing
+- 👀 I’m interested in Computer Science, Music and Alpinism
 - 📫 tardivo99@gmail.com 
 - 🌐 https://tardivo.dev
 
