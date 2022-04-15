@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FedericoTardivo
 - 👀 I’m interested in Computer Science, Music and Alpinism
 - 📫 tardivo99@gmail.com 
-- 🌐 https://tardivo.dev   
+- 🌐 https://federicotardivo.github.io/   
 -    www.linkedin.com/in/federico-tardivo
 
 <!---
